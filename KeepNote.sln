@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepNoteAPI", "KeepNoteAPI\KeepNoteAPI.csproj", "{A3AE8CE1-613C-4B7A-B570-E0990DB43973}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3AE8CE1-613C-4B7A-B570-E0990DB43973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3AE8CE1-613C-4B7A-B570-E0990DB43973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3AE8CE1-613C-4B7A-B570-E0990DB43973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3AE8CE1-613C-4B7A-B570-E0990DB43973}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3639120F-CA02-4FAA-8B0C-A3B1D8876B00}
+	EndGlobalSection
+EndGlobal
