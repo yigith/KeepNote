@@ -3,7 +3,10 @@ const nextConfig = {
   env: {
     apiUrl: "https://keepnoteapi.kod.fun/api/notes"
   },
-  output: "export"
+  output: "export",
+  images: {
+    unoptimized: true
+  }
 }
 
 module.exports = nextConfig
