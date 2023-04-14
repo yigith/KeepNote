@@ -15,7 +15,7 @@ export default function Home() {
     fetch(apiUrl)
       .then(res => res.json())
       .then(data => setNotes(data));
-  }, []);
+  }, [apiUrl]);
 
   const addNewNote = () => {
     fetch(apiUrl, {
